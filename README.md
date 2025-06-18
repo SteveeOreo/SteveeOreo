@@ -8,17 +8,17 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 I’m currently a learner in the <strong>ALX Front-End Software Developer Program</strong>.
-- 👨‍💻 I started my journey in software engineering because I'm passionate about <strong>solving problems</strong> and <strong>creating beautiful, impactful digital experiences</strong>.
-- 🌱 I'm currently learning and building with <strong>HTML, CSS, JavaScript, and React</strong>.
-- 🛠️ I love turning ideas into products, and I’m always excited about opportunities that let me grow and collaborate.
-- 🎯 My goal is to become a <strong>skilled front-end developer</strong> who delivers clean, accessible, and efficient web solutions.
+-  I’m currently a learner in the <strong>ALX Front-End Software Developer Program</strong>.
+-  I started my journey in software engineering because I'm passionate about <strong>solving problems</strong> and <strong>creating beautiful, impactful digital experiences</strong>.
+-  I'm currently learning and building with <strong>HTML, CSS, JavaScript, and React</strong>.
+-  I love turning ideas into products, and I’m always excited about opportunities that let me grow and collaborate.
+-  My goal is to become a <strong>skilled front-end developer</strong> who delivers clean, accessible, and efficient web solutions.
 
 ---
 
-### 💡 What Inspires Me
+###  What Inspires Me
 
 > "Technology is best when it brings people together."  
 > — Matt Mullenweg
@@ -27,7 +27,7 @@ My vision as a software developer is to use intuitive design and scalable code t
 
 ---
 
-### 🔧 Technologies & Tools
+###  Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
@@ -40,7 +40,7 @@ My vision as a software developer is to use intuitive design and scalable code t
 
 ---
 
-### 📂 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -49,7 +49,7 @@ My vision as a software developer is to use intuitive design and scalable code t
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" />
@@ -59,7 +59,7 @@ My vision as a software developer is to use intuitive design and scalable code t
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/stephen-ekwueme"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
